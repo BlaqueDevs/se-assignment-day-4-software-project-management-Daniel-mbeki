@@ -34,12 +34,15 @@ documents.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 - It Estimates costs for resources,materials, and equipment to help Develop a budget plan.
+  
   Resource Allocation:
 - Assign resources based on project needs
 and priorities.
+
 Resource Leveling:
 - Adjust start and end dates based on
 resource availability.
+
 - Critical Path Method (CPM):
 - Identify the longest path of planned
 activities to the end of the project.
@@ -80,10 +83,10 @@ Medical Device Software – Requires rigorous testing and regulatory approval be
 13. Adopt Agile Testing Practices
 
 Why Maintaining High Quality Standards is Important
-Reduces Bugs & Failures – Minimizes costly post-release fixes.
-Enhances User Satisfaction – Leads to higher adoption and trust.
-Ensures Security & Compliance – Prevents data breaches and legal risks.
-Improves Maintainability – Well-structured code simplifies future updates and scaling
+1. Reduces Bugs & Failures – Minimizes costly post-release fixes.
+2. Enhances User Satisfaction – Leads to higher adoption and trust.
+3. Ensures Security & Compliance – Prevents data breaches and legal risks.
+4. Improves Maintainability – Well-structured code simplifies future updates and scaling
   
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 Project Scope & Work Breakdown Structure (WBS)
@@ -102,6 +105,7 @@ Enhances Progress Tracking – Provides a roadmap for monitoring project milesto
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Benefits of a Detailed Project Schedule & Role of Gantt Charts
+
 Benefits of a Detailed Project Schedule
 Sets Clear Deadlines – Defines when tasks should start and finish.
 Enhances Coordination – Ensures smooth team collaboration by sequencing tasks properly.
@@ -190,18 +194,19 @@ Commission-based revenue from payment transactions.
 One-time software licensing fees for municipalities.
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Using Market Trends to Inform Software Positioning & Development
-Identifying User Needs & Preferences
+
+1. Identifying User Needs & Preferences
 Understanding customer behavior helps prioritize features that offer real value.
 Example: A rise in remote work trends led to the development of more collaboration and cloud-based tools.
-Staying Competitive
+2. Staying Competitive
 Tracking emerging technologies (AI, blockchain, automation) helps in innovating before competitors.
 Example: Businesses integrating AI-driven chatbots stay ahead in customer service solutions.
-Adapting to Regulatory & Security Requirements
+3. Adapting to Regulatory & Security Requirements
 Compliance with data privacy laws (GDPR, CCPA) shapes how software handles user information.
 Example: FinTech applications must align with financial regulations to gain customer trust.
-Optimizing Pricing Strategies
+4. Optimizing Pricing Strategies
 Understanding market demand and competitor pricing helps determine the best pricing model (subscription, one-time fee, freemium).
 Example: SaaS companies often use tiered pricing based on user needs and willingness to pay.
-Improving Marketing & Positioning
+5. Improving Marketing & Positioning
 Market research helps identify target audience pain points, leading to better messaging.
 Example: A productivity app may target busy professionals who struggle with task management.
