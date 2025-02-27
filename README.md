@@ -91,6 +91,7 @@ Why Maintaining High Quality Standards is Important
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
 Project Scope & Work Breakdown Structure (WBS)
+
 How Defining Project Scope Contributes to Success
 Clarity & Direction – Outlines project goals, deliverables, and boundaries.
 Prevents Scope Creep – Reduces unnecessary changes that can delay progress.
@@ -98,6 +99,7 @@ Improves Resource Allocation – Ensures the right budget, time, and personnel a
 Enhances Stakeholder Communication – Aligns expectations among teams and clients.
 
 What is a Work Breakdown Structure (WBS)?
+
 A hierarchical decomposition of a project into smaller, manageable tasks.
 Breaks work into phases, deliverables, and tasks, making complex projects easier to execute.
 
@@ -129,25 +131,26 @@ Garbage Collection Billing System: Core Issues & Significance
 
 Core Issues the Software Aims to Address
 
-Manual & Inefficient Billing Processes
-Many garbage collection services rely on paper-based or manual record-keeping, leading to errors and inefficiencies.
-Delayed or Missed Payments
-Lack of automated invoicing results in late payments, revenue loss, and poor financial tracking.
-Lack of Transparency & Accountability
-Customers and service providers often struggle with disputes over billing, missed collections, or unclear payment records.
-Difficulty in Service Tracking
-No centralized system to monitor garbage pickup schedules, route optimization, or service completion.
-Poor Customer Communication
-Customers don’t get timely notifications about billing, overdue payments, or service updates.
+1. Manual & Inefficient Billing Processes
+2. Many garbage collection services rely on paper-based or manual record-keeping, leading to errors and inefficiencies.
+3. Delayed or Missed Payments
+4. Lack of automated invoicing results in late payments, revenue loss, and poor financial tracking.
+5. Lack of Transparency & Accountability
+6. Customers and service providers often struggle with disputes over billing, missed collections, or unclear payment records.
+7. Difficulty in Service Tracking
+8. No centralized system to monitor garbage pickup schedules, route optimization, or service completion.
+9. Poor Customer Communication
+10.Customers don’t get timely notifications about billing, overdue payments, or service updates.
 
 Significance to Target Audience
 
-Garbage Collection Companies: Increases efficiency, reduces revenue loss, and improves tracking.
-Municipalities & Local Governments: Ensures compliance with waste management regulations and improves public service delivery.
-Residents & Businesses: Provides a seamless way to track payments, view service history, and avoid disputes.
+1. Garbage Collection Companies: Increases efficiency, reduces revenue loss, and improves tracking.
+2. Municipalities & Local Governments: Ensures compliance with waste management regulations and improves public service delivery.
+3. Residents & Businesses: Provides a seamless way to track payments, view service history, and avoid disputes.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Importance of Clearly Defining the Problem in Software Development
+
 Ensures a Targeted Solution
 Helps developers focus on solving the core issue rather than unnecessary features.
 Improves Requirement Clarity
