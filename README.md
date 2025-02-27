@@ -89,16 +89,20 @@ Why Maintaining High Quality Standards is Important
 4. Improves Maintainability – Well-structured code simplifies future updates and scaling
   
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
 Project Scope & Work Breakdown Structure (WBS)
 How Defining Project Scope Contributes to Success
 Clarity & Direction – Outlines project goals, deliverables, and boundaries.
 Prevents Scope Creep – Reduces unnecessary changes that can delay progress.
 Improves Resource Allocation – Ensures the right budget, time, and personnel are assigned.
 Enhances Stakeholder Communication – Aligns expectations among teams and clients.
+
 What is a Work Breakdown Structure (WBS)?
 A hierarchical decomposition of a project into smaller, manageable tasks.
 Breaks work into phases, deliverables, and tasks, making complex projects easier to execute.
+
 Why is WBS Useful?
+
 Organizes Work Efficiently – Helps assign responsibilities clearly.
 Improves Task Estimation – Helps predict time, cost, and effort accurately.
 Enhances Progress Tracking – Provides a roadmap for monitoring project milestones.
@@ -107,12 +111,14 @@ Enhances Progress Tracking – Provides a roadmap for monitoring project milesto
 Benefits of a Detailed Project Schedule & Role of Gantt Charts
 
 Benefits of a Detailed Project Schedule
+
 Sets Clear Deadlines – Defines when tasks should start and finish.
 Enhances Coordination – Ensures smooth team collaboration by sequencing tasks properly.
 Identifies Critical Paths – Helps prioritize tasks that directly impact project timelines.
 Improves Risk Management – Anticipates delays and adjusts schedules accordingly.
 
 How Gantt Charts Assist in Project Scheduling
+
 Visual Representation – Displays project timeline, dependencies, and progress.
 Tracks Task Dependencies – Highlights tasks that must be completed before others begin.
 Improves Time Management – Helps teams stay on track with deadlines.
@@ -120,7 +126,9 @@ Enhances Communication – Provides a clear overview of project status to all st
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 Garbage Collection Billing System: Core Issues & Significance
+
 Core Issues the Software Aims to Address
+
 Manual & Inefficient Billing Processes
 Many garbage collection services rely on paper-based or manual record-keeping, leading to errors and inefficiencies.
 Delayed or Missed Payments
@@ -133,6 +141,7 @@ Poor Customer Communication
 Customers don’t get timely notifications about billing, overdue payments, or service updates.
 
 Significance to Target Audience
+
 Garbage Collection Companies: Increases efficiency, reduces revenue loss, and improves tracking.
 Municipalities & Local Governments: Ensures compliance with waste management regulations and improves public service delivery.
 Residents & Businesses: Provides a seamless way to track payments, view service history, and avoid disputes.
