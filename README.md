@@ -50,37 +50,34 @@ Agile is Iterative and incremental approach to project management and software d
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Projects Where Agile is More Beneficial
 Agile is ideal for projects requiring flexibility, continuous feedback, and frequent updates.
+
 Examples:
 Software Startups & App Development – Rapidly evolving requirements and user feedback drive iterative improvements.
 E-commerce Platforms – Constantly updating features based on user behavior and market trends.
 AI & Machine Learning Models – Continuous data refinement and model tuning require an adaptive approach.
+
 Projects Where Waterfall is More Beneficial
 Best suited for projects with well-defined requirements, strict regulations, or minimal expected changes.
+
 Examples:
 Government and Defense Projects – Compliance with strict regulations requires thorough planning.
 Infrastructure & Construction – Fixed planning phases ensure safety and budget control.
 Medical Device Software – Requires rigorous testing and regulatory approval before release.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-Methods for Ensuring Quality Assurance in Software Projects
-Establish Clear Requirements
-Avoid ambiguity by defining detailed functional and non-functional requirements upfront.
-Use Automated and Manual Testing
-Unit Testing (validate individual components).
-Integration Testing (ensure smooth communication between modules).
-System Testing (verify complete system functionality).
-User Acceptance Testing (UAT) (validate against user needs).
-Continuous Integration & Continuous Deployment (CI/CD)
-Automate testing and deployment to catch errors early and ensure stable releases.
-Code Reviews & Pair Programming
-Encourages best coding practices and detects potential issues before merging code.
-Adopt Agile Testing Practices
-Test-Driven Development (TDD) – Writing tests before coding ensures higher reliability.
-Behavior-Driven Development (BDD) – Focuses on user expectations for more effective tests.
-Monitor Performance and Security
-Regular load testing, security audits, and vulnerability scanning prevent critical failures.
-Maintain Proper Documentation
-Helps teams understand, debug, and enhance software effectively.
+1. Methods for Ensuring Quality Assurance in Software Projects
+2. Establish Clear Requirements
+3. Avoid ambiguity by defining detailed functional and non-functional requirements upfront.
+4. Use Automated and Manual Testing
+5. Unit Testing (validate individual components).
+6. Integration Testing (ensure smooth communication between modules).
+7. System Testing (verify complete system functionality).
+8. User Acceptance Testing (UAT) (validate against user needs).
+9. Continuous Integration & Continuous Deployment (CI/CD)
+10. Automate testing and deployment to catch errors early and ensure stable releases.
+11. Code Reviews & Pair Programming
+12. Encourages best coding practices and detects potential issues before merging code.
+13. Adopt Agile Testing Practices
 
 Why Maintaining High Quality Standards is Important
 Reduces Bugs & Failures – Minimizes costly post-release fixes.
